@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'LinuxServer.io',
-    description: 'Kasm workspaces provided by LSIO expertise',
-    icon: 'https://www.linuxserver.io/user/assets/typhoon/Asset%202.svg',
-    listUrl: 'https://kasmregistry.linuxserver.io/',
-    contactUrl: 'https://discord.gg/YWrKVTn',
+    name: 'Satcom - Kasm Registry',
+    description: 'Satcom - Kasm Registry, fill free to push requests on Github to add images.',
+    icon: 'https://images.vexels.com/media/users/3/185202/isolated/preview/04210f166dee214fc751791106b453b2-donut-rosa-sirup-symbol.png',
+    listUrl: 'https://Satcomx00-x00.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/Satcomx00-x00/kasm-registry',
   },
   reactStrictMode: true,
   swcMinify: true,
